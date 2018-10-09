@@ -8,7 +8,7 @@ The purpose of this page is to act as an issue / feature tracker. No bot source 
 
 ## How To
 
-Click on the [Issues Tab](https://github.com/PokeNavBot/Issue-Tracker/issues) look / search for an existing issue. Voting thumbs up on an issue will increase its priority and attention. Duplicates will eventually be closed. 
+Click on the [Issues Tab](https://github.com/PokeNavBot/Issue-Tracker/issues) and search for an existing issue. Voting thumbs up on an issue will increase its priority and attention. Duplicates will eventually be closed. 
 
 If the bug / issue you want to report doesn't exist, hit "New Issue" and select from the correct option. 
 
