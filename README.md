@@ -1,5 +1,5 @@
 # PokeNav
-Issue repository for PokeNav (both the discord bot and mobile application)
+Issue repository for PokeNav discord bot and mobile app.
 
 ## Purpose
 
@@ -13,3 +13,5 @@ Official Site - https://pokenavbot.com
 Documentation - https://docs.pokenavbot.com
 
 Twitter - https://twitter.com/PokeNavBot
+
+Discord - https://discord.gg/uPhP2A8
