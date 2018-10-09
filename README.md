@@ -1,5 +1,5 @@
 # PokeNav
-Issue repository for PokeNav 
+Issue repository for PokeNav (both the discord bot and mobile application)
 
 ## Purpose
 
